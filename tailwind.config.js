@@ -9,7 +9,8 @@ export default {
         primary:"#E5B01A"
       },
       backgroundImage: {
-        "sign-in" : "linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)),url('./src/assets/korean-food.png')"
+        "sign-up" : "linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)),url('./src/assets/korean-food.png')",
+        "sign-in" : "linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)),url('./src/assets/japanese-food.png')"
       }
     },
   },
